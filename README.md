@@ -1,0 +1,2 @@
+# jstypecheck
+validate javascript types 
